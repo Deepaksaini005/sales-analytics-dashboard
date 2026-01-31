@@ -1,0 +1,23 @@
+What I Worked On
+
+Collected and structured sales transaction data containing order date, product, category, region, quantity, price, and cost.
+
+Performed data cleaning and preprocessing using Pandas (handled missing values, corrected data types, removed duplicates).
+
+Created derived columns such as total sales and profit using business logic.
+
+Designed key business KPIs including total revenue, total profit, profit margin, monthly growth rate, and region-wise performance.
+
+Conducted time-series analysis to identify monthly and yearly sales trends.
+
+Analyzed product-level performance to identify top-selling and most profitable products.
+
+Performed region-wise sales and profit analysis to compare market performance.
+
+Built clear and meaningful data visualizations (line charts, bar charts) using Matplotlib.
+
+Developed an interactive dashboard using Streamlit with filters for region, product, and date range.
+
+Presented actionable business insights and recommendations based on sales and profit patterns.
+
+Structured the project with clean code, reusable functions, and proper documentation for industry readiness.
